@@ -1,7 +1,7 @@
 # 💫 About Me
-🎓 Computer Science & Engineering student at UVCE, focusing on building real-world solutions that bridge legacy systems and digital futures.
-💻 Co-founder of **myuvce.in** and **Pluranode**, building scalable digital hubs and mapping experiences to solve last-mile navigation for students.
-🧠 Core interests lie in **Cybersecurity and Internet of Things**.  
+🎓 Computer Science & Engineering student at UVCE, focusing on building real-world solutions that bridge legacy systems and digital futures.  
+💻 Co-founder of **myuvce.in** and **Pluranode**, building scalable digital hubs and mapping experiences to solve last-mile navigation for students.  
+🧠 Core interests lie in **Cybersecurity and Internet of Things**.   
 🚀 Currently mastering **C and C++** while leveraging AI ("vibe coding") to build and ship fast, responsive web applications.  
 ⚡ I believe in a disciplined approach to coding and prefer shipping actual products over just collecting tech stacks.  
 💬 Open to collaborations and discussions around **Post-Quantum Cryptography, IoT solutions, and building web architecture**.
